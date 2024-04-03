@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif; /* Define a fonte para todo o corpo do documento */
+    background-color:lightsteelblue; /* Define a cor de fundo */
+    margin: 0; /* Remove as margens padrão */
+    padding: 0; /* Remove o preenchimento padrão */
+    text-transform: capitalize;
+}
+
+/* Estilos para o contêiner principal */
+main {
+    max-width: 800px; /* Define a largura máxima do contêiner */
+    margin: auto; /* Centraliza o contêiner na página */
+    padding: 20px; /* Adiciona espaço interno */
+    text-transform: capitalize;
+}
+
+#locadora{
+    border-top-color: #423e3e 100px;
+    font-size: medium 30px;
+    font-family: 'Times New Roman', Times, serif 20px;
+    text-transform: capitalize;
+}
+
+/* Estilos para os cabeçal#096hos */
+h1, h2, h4 {
+    color: #096bd3; /* Define a cor do texto */
+    font: size 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-top-color: #ffffff 100px;
+    text-transform: capitalize;
+    
+}
+
+/* Estilos para os parágrafos */
+p {
+    color: black; /* Define a cor do texto */
+    line-height: 1.6; /* Define a altura da linha */
+    font-size: medium 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 20px;
+    text-transform: capitalize;
+    line-height: 150%;
+    
+}
+
+/* Estilos para as imagens */
+img {
+    max-width: 100%; /* Garante que as imagens não ultrapassem a largura do contêiner pai */
+    height: auto; /* Mantém a proporção da imagem */
+}
+
+/* Estilos para os botões */
+button {
+    background-color: #096bd3; /* Define a cor de fundo */
+    color: #ffffff; /* Define a cor do texto */
+    font-size: small;
+    border: none; /* Remove a borda */
+    padding: 1% 20px; /* Adiciona preenchimento interno */
+    cursor: pointer; /* Muda o cursor para indicar interatividade */
+    margin-right: 10px; /* Adiciona margem à direita */
+}
+
+/* Estilos para os links */
+a {
+    color: #ffffff; /* Define a cor do link */
+    text-decoration: none; /* Remove o sublinhado padrão */
+}
+
+/* Estilos para o contêiner de entrada */
+#entrada {
+    background-color: rgb(252, 143, 0); /* Define a cor de fundo */
+    padding: 20px; /* Adiciona espaço interno */
+    margin-bottom: 10px; /* Adiciona margem inferior */
+    
+}
+
+/* Estilos para os campos de entrada e rótulos */
+#loginsenha {
+    margin-right: 10px; /* Adiciona margem à direita */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+
+#senhalogin {
+    width: 150px; /* Define a largura */
+    padding: 5px; /* Adiciona espaço interno */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display: flex;
+    text-transform: capitalize;
+
+}
+
+
+/* Estilos para o título de entrada */
+#titulo {
+    
+    color:  #0c6ed8; /* Define a cor do texto */
+    font-size: small 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif 100px;
+
+}
+
+/* Estilos para o contêiner de serviços */
+#serviços {
+    background-color: #fff; /* Define a cor de fundo */
+    padding: 20px; /* Adiciona espaço interno */
+    margin-bottom: auto; /* Adiciona margem inferior */
+    text-transform: capitalize;
+}
+
+/* Estilos para a lista de serviços */
+#serviços li {
+    list-style-type: none; /* Remove a marcação de lista */
+    color: #096bd3;
+    font-size: larger 150%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: auto;
+    max-width: max-content;
+
+}
+
+/* Estilos para o contêiner de contatos */
+#contatos {
+    background-color: rgb(252, 143, 0); /* Define a cor de fundo */
+    padding: 1%; /* Adiciona espaço interno */
+    text-transform: capitalize;
+
+}
+
+#dados{
+font-size: 150%;
+font-family: Arial, Helvetica, sans-serif;
+color: #0077ff;
+margin-top: auto;
+}
+.dados2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+}
+
